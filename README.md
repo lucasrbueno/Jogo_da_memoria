@@ -1,1 +1,1 @@
-# Jogo_da_memoria
+# Jogo_da_memoria desenvolvido como projeto de assessment
